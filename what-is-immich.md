@@ -1,0 +1,30 @@
+# What is Immich
+
+### Docker Immich module **[WHMCS](https://puqcloud.com/link.php?id=77)** 
+
+#####  [Order now](https://puqcloud.com/whmcs-module-docker-immich.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Docker-Immich/) | [FAQ](https://faq.puqcloud.com/) | [n8n](https://puqcloud.com/link.php?id=117)
+
+## What is Immich? An Overview of the Self-Hosted Photo and Video Storage Platform
+
+Immich is an open-source, self-hosted solution for photo and video storage that emphasizes user privacy and control. Unlike cloud services where your data is stored on third-party servers, Immich allows you to host your media library on your own hardware. This gives you complete control over your data and helps ensure its privacy.
+
+## Key Features and Characteristics of Immich
+
+<div id="bkmrk-self-hosted%3A-your-ph"><div><div>- **Self-Hosted:** Your photos and videos are stored on your own servers, providing maximum control over data privacy and security.
+- **Open Source:** As an open-source project, Immich allows anyone to inspect, contribute to, and adapt the software to suit their needs.
+- **Privacy-Focused Functionality:** Immich is designed with privacy in mind, and your data is not shared with or used by third parties.
+- **Active Development:** Immich is still in active development, so users should be prepared for potential bugs and changes. The developers caution against using Immich as the sole storage method for your photos and videos.
+
+</div></div></div>## Mobile Apps and Web Interface
+
+Immich offers mobile apps for both Android and iOS, allowing users to easily upload and access their media on the go. There's also a web interface for managing your library from any browser.
+
+## Is Immich Right for You?
+
+Immich can be an excellent option for tech-savvy users who want control over their photos and videos. It's particularly appealing for those concerned about privacy and who prefer to keep their data on their own hardware rather than in the cloud.
+
+However, as Immich is in active development, caution should be exercised when using it to store critical data. Nonetheless, for those seeking a self-hosted, privacy-oriented solution for media management, Immich offers a promising open-source platform.
+
+Remember to regularly back up your data and stay updated with the latest developments in the Immich project if you decide to use it.
+
+[![image-1742323351681.webp](https://doc.puq.info/uploads/images/gallery/2025-03/scaled-1680-/image-1742323351681.webp)](https://doc.puq.info/uploads/images/gallery/2025-03/image-1742323351681.webp)
