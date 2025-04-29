@@ -6,7 +6,7 @@
 
 In order for the client to have a choice of operating system in the configuration of the virtual machine. You need to configure the Configurable Option and connect them to the package.
 
-#### Create Group
+### Create Group
 
 Add new Configurable Option to WHMCS
 
@@ -22,23 +22,23 @@ System Settings->Configurable Option->Create a New Group
 
 [![image-1745864110464.png](https://doc.puq.info/uploads/images/gallery/2025-04/scaled-1680-/image-1745864110464.png)](https://doc.puq.info/uploads/images/gallery/2025-04/image-1745864110464.png)
 
-#### Add Configurable Option
+### Add Configurable Option
 
 [![image-1745864205353.png](https://doc.puq.info/uploads/images/gallery/2025-04/scaled-1680-/image-1745864205353.png)](https://doc.puq.info/uploads/images/gallery/2025-04/image-1745864205353.png)
 
-##### CPU|CPU - The first element before | must be left as is, but the second can be changed to suit your needs
+### CPU|CPU - The first element before | must be left as is, but the second can be changed to suit your needs
 
 [![image-1745866390473.png](https://doc.puq.info/uploads/images/gallery/2025-04/scaled-1680-/image-1745866390473.png)](https://doc.puq.info/uploads/images/gallery/2025-04/image-1745866390473.png)
 
 In the option, the first element is responsible for the quantity and the second element is responsible for the description.
 
-##### RAM|MEM - The first element before | must be left as is, but the second can be changed to suit your needs
+### RAM|MEM - The first element before | must be left as is, but the second can be changed to suit your needs
 
 [![image-1745866413434.png](https://doc.puq.info/uploads/images/gallery/2025-04/scaled-1680-/image-1745866413434.png)](https://doc.puq.info/uploads/images/gallery/2025-04/image-1745866413434.png)
 
 In the option, the first element is responsible for the quantity and the second element is responsible for the description.
 
-##### DISK|Disk - The first element before | must be left as is, but the second can be changed to suit your needs
+### DISK|Disk - The first element before | must be left as is, but the second can be changed to suit your needs
 
 [![image-1745866456963.png](https://doc.puq.info/uploads/images/gallery/2025-04/scaled-1680-/image-1745866456963.png)](https://doc.puq.info/uploads/images/gallery/2025-04/image-1745866456963.png)
 
